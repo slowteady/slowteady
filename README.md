@@ -46,7 +46,7 @@
 
 <div align="center">
 
-![YongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYongMin0&show_icons=true&theme=tokyonight)
+![YongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYongMin01&show_icons=true&theme=tokyonight)
 
 </div>
 
