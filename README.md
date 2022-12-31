@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
 </p>
-<br>
 <h4 align="center">🖥️ &nbsp FrontEnd &nbsp 🖥️</h4>
 <p align="center"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/></a>&nbsp 
@@ -19,7 +18,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 <h4 align="center">💾 &nbsp Database &nbsp 💾</h4>
 <p align="center"><br>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>&nbsp   
@@ -27,7 +25,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 <h4 align="center">➕ &nbsp Etc &nbsp ➕</h4>
 <p align="center"><br>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp   
@@ -37,7 +34,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 <h4 align="center"> &nbsp and Continuing to Study.... &nbsp 🖊️</h4>
 <br>
 <br>
@@ -48,6 +44,9 @@
 </p>
 <br>
 
+<div align="center">
+
 ![YongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYongMin01&show_icons=true&theme=tokyonight)
 
+</div>
 
