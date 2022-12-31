@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4085f5&height=150&section=header&text=Yongmin Lee&fontSize=50&fontColor=62e3a2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4085f5&height=150&section=header&text=Yongmin&nbsp;Lee&fontSize=50&fontColor=62e3a2)
 
 <h3 align="center">⛏️ Tech Stack ⛏️</h3><br>
 
