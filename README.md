@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4085f5&height=150&section=header&text=Yongmin&nbsp;Lee&fontSize=50&fontColor=62e3a2)
+<div style="background-color:rgba(0,0,0,0.6);">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=4085f5&height=150&section=header&text=Yongmin&nbsp;Lee&fontSize=50&fontColor=62e3a2)
 <h3 align="center">⛏️ Tech Stack ⛏️</h3><br>
 
 <h4 align="center">💻 &nbsp BackEnd &nbsp 💻</h4>
@@ -48,5 +49,7 @@
 
 ![YongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYongMin01&show_icons=true&theme=tokyonight)
 
+</div>
+<br>
 </div>
 
