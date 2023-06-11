@@ -24,6 +24,6 @@
 
 <div align="center">
 
-![YongMin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=slowteady&show_icons=true&theme=tokyonight)
+![YongMin's GitHub stats](https://github-readme-stats-mauve-phi.vercel.app/api?username=slowteady&show_icons=true&theme=tokyonight)
 
 </div>
